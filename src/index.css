@@ -1,0 +1,15 @@
+
+
+.row{
+    width: 50%;
+    margin: 10px;
+}
+
+.row > input{
+    width: 100%;
+    padding: 10px;
+}
+
+.items{
+    margin-bottom: 10px;
+}
